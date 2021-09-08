@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaseActivity</string>
+    <string name="camera">CAMERA</string>
+</resources>
